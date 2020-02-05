@@ -63,6 +63,7 @@ Attaching to consumer_1
 
 Then, start the `producer` container this way:
 
+```
 ✗ docker-compose up --build producer
 Building producer
 Step 1/5 : FROM python:3.7
